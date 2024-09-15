@@ -171,11 +171,12 @@ aside h3 {
 aside p {
     text-align: justify;
     text-indent: 20px;
+    padding: 20px;
 }
 
 aside ul {
     columns: 2;
-    padding-left: 30px;
+    padding-left: 50px;
     padding-top: 5px;
 }
 
